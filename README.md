@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 Currently working on my degree final project.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-sgz&layout=compact)](https://github.com/pedro-sgz/github-readme-stats)
-
